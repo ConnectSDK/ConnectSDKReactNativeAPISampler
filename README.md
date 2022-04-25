@@ -21,11 +21,6 @@ iOS:
 
     npx pod-install
 
-Android:
-
-    cd android
-    git clone https://github.com/ConnectSDK/Connect-SDK-Android-Core
-
 
 ## Build
 To start Metro, run
